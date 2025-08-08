@@ -312,5 +312,3 @@ SELECT
     END AS sales_day_type
 FROM
     sales;
-
-#PART B - SQL Practice Exercises for Intermediate
