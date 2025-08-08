@@ -1,41 +1,59 @@
-Sales Performance Dashboard
+Dataforte SQL Exercise Solutions
 
-This project analyzes sales performance data using Python, MySQL, and Excel.
-It is designed as a beginner-friendly data analysis project to practice data cleaning, database querying, and visualization skills.
+📌 Overview
 
-Project Overview
+This repository contains my solutions to the Dataforte SQL Exercise, a set of 20 SQL questions designed to test and improve skills in:
 
-Import and clean sales data.
+Writing queries for data retrieval
 
-Store and query the data in MySQL.
+Using joins to combine tables
 
-Create reports and dashboards in Excel.
+Performing aggregations and filtering
 
-
-Tools & Technologies
-
-Python – Data cleaning and analysis.
-
-MySQL – Database storage and querying.
-
-Excel – Dashboard and visualization.
+Applying date functions
 
 
-Files in this Repository
-
-sales_dashboard.ipynb – Python analysis notebook.
-
-sales_data.sql – MySQL schema and sample data.
-
-sales_dashboard.xlsx – Excel dashboard.
+The queries are written in MySQL and based on product and sales datasets.
 
 
-Learning Goals
 
-Practice SQL queries (SELECT, JOIN, GROUP BY, etc.).
+🛠️ Skills Demonstrated
 
-Build interactive dashboards in Excel.
+SQL Joins: INNER, LEFT, RIGHT, FULL (via UNION), CROSS
 
-Understand how Python, SQL, and Excel can work together.
+Aggregations: SUM, AVG, COUNT, MIN, MAX
 
-You may be offline or with limited connectivity. Try downloading instead.
+Filtering: WHERE, HAVING, BETWEEN, LIKE
+
+Date Functions: YEAR(), MONTH(), DATE_FORMAT()
+
+Sorting & Grouping: ORDER BY, GROUP BY
+
+
+📂 Files in this Repository
+
+Dataforte_SQL_Exercise.pdf – Questions and solutions
+
+SQL scripts – Individual query files (optional if you have them separately)
+
+
+
+🚀 How to Use
+
+1. Open the .sql scripts in MySQL Workbench (or any SQL IDE).
+
+
+2. Run them on a database with the provided tables and data.
+
+
+3. Compare results with the expected output in the PDF.
+
+
+
+
+📧 Contact
+
+If you have feedback or suggestions, feel free to reach out:
+Onyinyechi Damilola Odene
+📍 Lagos, Nigeria
+📧 damilola1808@gmail.com
